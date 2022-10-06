@@ -8,3 +8,5 @@ It makes use of a number of algorithms at different stages (cleaning, pre-proces
 ##### • Vectorization (using CountVectorizer, TfidfVectorizer, and Word2Vec)
 ##### • Topic Modelling (using LDA)
 ##### • Data Visualisation (using pyLDAvis, word clouds, and t-SNE charts)
+
+The dataset I used for this project can be found on Kaggle as "Block Authorship Corpus" at https://www.kaggle.com/datasets/rtatman/blog-authorship-corpus.
